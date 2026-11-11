@@ -33,3 +33,8 @@ git clone https://github.com/your-username/triview.git
 cd triview
 pip install -r requirements.txt
 python triview_system.py
+```
+
+---
+
+تم عمل المشروع مع زميلتي [@reemfaiz](https://github.com/reemfaiz)
